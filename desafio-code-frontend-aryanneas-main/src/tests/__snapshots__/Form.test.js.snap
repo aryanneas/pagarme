@@ -1,0 +1,67 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Form component should only allow submission if all fields are filled correctly 1`] = `
+<DocumentFragment>
+  <form
+    name="test"
+  >
+    <div
+      class="sc-jSgupP ForCf"
+    >
+      <span
+        class="sc-hKgILt dxNXzf control-label"
+        for="first"
+      >
+        first input
+      </span>
+      <input
+        class="sc-dlfnbm kUGxZo"
+        data-testid="first-input-field"
+        id="first"
+        name="first"
+        type="text"
+        value="hello world first"
+      />
+    </div>
+    <div
+      class="sc-jSgupP ForCf"
+    >
+      <span
+        class="sc-hKgILt dxNXzf control-label"
+        for="second"
+      >
+        second input
+      </span>
+      <input
+        class="sc-dlfnbm kUGxZo"
+        data-testid="second-input-field"
+        id="second"
+        name="second"
+        type="text"
+        value="hello world second"
+      />
+    </div>
+    <button
+      class="sc-bdfBwQ gtOdDW"
+      data-testid="test-button"
+    >
+      test
+    </button>
+  </form>
+</DocumentFragment>
+`;
+
+exports[`Form component should render 1`] = `
+<DocumentFragment>
+  <form
+    name="test"
+  >
+    <button
+      class="sc-bdfBwQ gtOdDW"
+      data-testid="test-button"
+    >
+      test
+    </button>
+  </form>
+</DocumentFragment>
+`;

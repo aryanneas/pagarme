@@ -1,0 +1,191 @@
+{
+  "transactions": [
+    {
+      "amount": 10000,
+      "buyer_document": "12345678912",
+      "credit_card_cvv": "123",
+      "credit_card_expiration_date": "0121",
+      "credit_card_holder_name": "JOAO S SAURO",
+      "credit_card_number": "4111111111111111",
+      "date": "2020-11-10T19:43:56.451Z",
+      "id": 1,
+      "status": "paid"
+    },
+    {
+      "buyer_document": "444.444.444-44",
+      "credit_card_holder_name": "teste teste",
+      "credit_card_number": "4444 4444 4444 4444",
+      "credit_card_expiration_date": "44/44",
+      "credit_card_cvv": "444",
+      "amount": "44444444",
+      "status": "refused",
+      "date": "2020-11-30T16:06:20.637Z",
+      "id": 2
+    },
+    {
+      "buyer_document": "555.555.555-55",
+      "credit_card_holder_name": "teste teste",
+      "credit_card_number": "5555 5555 5555 5555",
+      "credit_card_expiration_date": "55/55",
+      "credit_card_cvv": "555",
+      "amount": "55555",
+      "status": "refused",
+      "date": "2020-11-30T16:09:38.920Z",
+      "id": 3
+    },
+    {
+      "buyer_document": "555.555.555-55",
+      "credit_card_holder_name": "teste teste",
+      "credit_card_number": "5555 5555 5555 5555",
+      "credit_card_expiration_date": "55/55",
+      "credit_card_cvv": "555",
+      "amount": "55555",
+      "status": "paid",
+      "date": "2020-11-30T16:10:24.993Z",
+      "id": 4
+    },
+    {
+      "buyer_document": "555.555.555-55",
+      "credit_card_holder_name": "teste teste",
+      "credit_card_number": "5555 5555 5555 5555",
+      "credit_card_expiration_date": "55/55",
+      "credit_card_cvv": "555",
+      "amount": "45454545",
+      "status": "paid",
+      "date": "2020-11-30T16:31:18.790Z",
+      "id": 5
+    },
+    {
+      "buyer_document": "282.431.620-97",
+      "credit_card_holder_name": "teste legal",
+      "credit_card_number": "5584 1262 5568 5188",
+      "credit_card_expiration_date": "12/2021",
+      "credit_card_cvv": "288",
+      "amount": 8000,
+      "status": "paid",
+      "date": "2020-12-01T20:13:20.537Z",
+      "id": 6
+    },
+    {
+      "buyer_document": "888.951.720-43",
+      "credit_card_holder_name": "teste toastify",
+      "credit_card_number": "5552 1173 4462 4245",
+      "credit_card_expiration_date": "10/2022",
+      "credit_card_cvv": "242",
+      "amount": 4000,
+      "status": "refused",
+      "date": "2020-12-01T20:20:04.997Z",
+      "id": 7
+    },
+    {
+      "buyer_document": "151.515.151-51",
+      "credit_card_holder_name": "teste",
+      "credit_card_number": "1515 1515 1515 1515",
+      "credit_card_expiration_date": "15/1515",
+      "credit_card_cvv": "515",
+      "amount": 515151,
+      "status": "paid",
+      "date": "2020-12-02T00:53:21.296Z",
+      "id": 8
+    },
+    {
+      "buyer_document": "777.777.777-77",
+      "credit_card_holder_name": "teste perdi as contas",
+      "credit_card_number": "7777 7777 7777 7777",
+      "credit_card_expiration_date": "77/7777",
+      "credit_card_cvv": "777",
+      "amount": 77777,
+      "status": "paid",
+      "date": "2020-12-02T00:55:57.124Z",
+      "id": 9
+    },
+    {
+      "buyer_document": "74939547043",
+      "credit_card_holder_name": "teste dezembrou",
+      "credit_card_number": "5286941708932982",
+      "credit_card_expiration_date": "01/2022",
+      "credit_card_cvv": "688",
+      "amount": 58023,
+      "status": "paid",
+      "date": "2020-12-03T00:06:29.642Z",
+      "id": 10
+    },
+    {
+      "buyer_document": "49000993091",
+      "credit_card_holder_name": "testadora de testes",
+      "credit_card_number": "5286941708932982",
+      "credit_card_expiration_date": "01/2022",
+      "credit_card_cvv": "668",
+      "amount": 1250,
+      "status": "refused",
+      "date": "2020-12-03T00:30:54.872Z",
+      "id": 11
+    },
+    {
+      "buyer_document": "49000993091",
+      "credit_card_holder_name": "outro teste",
+      "credit_card_number": "2804153606901112",
+      "credit_card_expiration_date": "01/2022",
+      "credit_card_cvv": "852",
+      "amount": 7150,
+      "status": "refused",
+      "date": "2020-12-03T00:34:56.800Z",
+      "id": 12
+    },
+    {
+      "buyer_document": "70713861029",
+      "credit_card_holder_name": "mais testes",
+      "credit_card_number": "9440623004114555",
+      "credit_card_expiration_date": "12/2023",
+      "credit_card_cvv": "753",
+      "amount": 8990,
+      "status": "refused",
+      "date": "2020-12-03T00:41:44.849Z",
+      "id": 13
+    },
+    {
+      "buyer_document": "94406230041",
+      "credit_card_holder_name": "um nome legal aqui",
+      "credit_card_number": "5138858793466132",
+      "credit_card_expiration_date": "11/2022",
+      "credit_card_cvv": "415",
+      "amount": 8540,
+      "status": "paid",
+      "date": "2020-12-03T00:44:48.637Z",
+      "id": 14
+    },
+    {
+      "buyer_document": "42848033010",
+      "credit_card_holder_name": "Pyara Nunes",
+      "credit_card_number": "5392999501294803",
+      "credit_card_expiration_date": "09/2021",
+      "credit_card_cvv": "741",
+      "amount": 1490,
+      "status": "paid",
+      "date": "2020-12-03T00:57:12.626Z",
+      "id": 15
+    },
+    {
+      "buyer_document": "096.268.110-56",
+      "credit_card_holder_name": "Thomas Giovanni Porto",
+      "credit_card_number": "5103 5236 3389 5368",
+      "credit_card_expiration_date": "06/2021",
+      "credit_card_cvv": "264",
+      "amount": 4712,
+      "status": "refused",
+      "date": "2020-12-04T15:23:26.826Z",
+      "id": 16
+    },
+    {
+      "buyer_document": "196.236.413-54",
+      "credit_card_holder_name": "Cláudio Benedito Aragão",
+      "credit_card_number": "5370 2622 4915 7089",
+      "credit_card_expiration_date": "07/2021",
+      "credit_card_cvv": "624",
+      "amount": 1499,
+      "status": "paid",
+      "date": "2020-12-04T15:31:52.484Z",
+      "id": 17
+    }
+  ]
+}

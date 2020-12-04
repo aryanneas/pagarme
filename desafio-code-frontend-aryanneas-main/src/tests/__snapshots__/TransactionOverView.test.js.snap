@@ -1,0 +1,30 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`TransactionOverView page should render correctly 1`] = `
+<DocumentFragment>
+  <div
+    class="sc-bdfBwQ fZdKfR"
+  >
+    <p
+      class="sc-gsTCUz jcdWbx"
+    >
+      Número de transações
+    </p>
+    <p
+      class="sc-dlfnbm irvmMI"
+    >
+      1
+    </p>
+    <p
+      class="sc-gsTCUz jcdWbx"
+    >
+      Valor total
+    </p>
+    <p
+      class="sc-dlfnbm irvmMI"
+    >
+      R$ 10.000,00
+    </p>
+  </div>
+</DocumentFragment>
+`;
